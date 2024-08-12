@@ -1,0 +1,37 @@
+{
+    "personalInfo": {
+      "fields": [
+        {
+          "label": "Name",
+          "type": "text",
+          "name": "name",
+          "placeholder": "Enter your name"
+        },
+        {
+          "label": "Profession",
+          "type": "text",
+          "name": "profession",
+          "placeholder": "Enter your profession"
+        },
+        {
+          "label": "Phone",
+          "type": "text",
+          "name": "phone",
+          "placeholder": "Enter your phone number"
+        },
+        {
+          "label": "Email",
+          "type": "email",
+          "name": "email",
+          "placeholder": "Enter your email"
+        },
+        {
+          "label": "Location",
+          "type": "text",
+          "name": "location",
+          "placeholder": "Enter your location"
+        }
+      ]
+    }
+  }
+  

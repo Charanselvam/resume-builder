@@ -1,0 +1,33 @@
+{
+    "personalInfo": {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St, City, State"
+    },
+    "experience": [
+      {
+        "company": "ABC Corp",
+        "role": "Software Engineer",
+        "start": "Jan 2020",
+        "end": "Present",
+        "description": "Developed web applications using React.js and Node.js."
+      }
+    ],
+    "education": [
+      {
+        "institution": "XYZ University",
+        "degree": "B.S. in Computer Science",
+        "graduationYear": "2019"
+      }
+    ],
+    "skills": ["JavaScript", "React", "Node.js", "MySQL"],
+    "projects": [
+      {
+        "title": "Portfolio Website",
+        "description": "A personal portfolio website to showcase projects and skills.",
+        "link": "https://example.com"
+      }
+    ]
+  }
+  
